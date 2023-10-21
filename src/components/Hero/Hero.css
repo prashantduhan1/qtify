@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+.hero{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   padding: 10px 0;
+}
+
+.hero-txt{
+    color: var(--white-colour);
+    font-family: "Poppins",sans-serif;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 48px;
+}
+.hero-img{
+    width: 212px;
+    height: 212px;
+}
