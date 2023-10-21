@@ -1,0 +1,23 @@
+.search-bar{
+    width: 568px;
+    height:48px;
+    display: flex;
+    border: 1px;
+    border-radius: 12px;
+}
+.search-input{
+    width: 80%;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19.2px;
+    letter-spacing: 0.2px;
+
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border-right: none;
+}
+.search-button{
+    width: 20%;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
