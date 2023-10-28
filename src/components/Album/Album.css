@@ -1,0 +1,39 @@
+.top-albums{
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 2%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.title{
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10%;
+    margin-right:10%;
+    margin-bottom: 2%;
+}
+.showall-button{
+    color: var(--primary-colour);
+    background: none;
+    border: none;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+}
+.card-container{
+    margin-left: 2%;
+    margin-right:2%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 6px;
+}
+.card{
+    gap: 6px;
+}

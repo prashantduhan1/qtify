@@ -1,9 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 .hero{
+    height: 272px;
    display: flex;
    align-items: center;
    justify-content: center;
    padding: 10px 0;
+   text-align: center;
+   gap: 30px;
 }
 
 .hero-txt{

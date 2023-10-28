@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.card {
+    background-color: var(--black-colour);
+    width: 159px;
+    height: 232px;
+    
+  }
+  .card-content{
+    background-color: white;
+    color: white;
+  }
+  .card-img {
+    width: 159px;
+    height: 170px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+  }
+  .img-and-follows {
+    background-color: var(--white-colour);
+    border-radius: 10px;
+    
+  }
+  .follow-button-section{
+    width: 159px;
+    height: 35px;
+    font-size: 10px;
+  }
+  .follows-button {
+    background-color: var(--black-colour);
+    color:var(--white-colour);
+    height: 23px;
+    border-radius: 10px;
+    padding: 4px 8px 4px 8px;
+    margin-left: 6px;
+   
+  }
+  .album-title {
+    color:var(--white-colour);
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+    font-size: 14px;
+    line-height: 21px;
+    margin-top: 6px;
+    
+  }
+  
